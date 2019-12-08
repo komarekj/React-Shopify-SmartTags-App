@@ -1,0 +1,564 @@
+{
+    "order": [
+        {
+            "value": "billing_address.address1",
+            "label": "Billing Address: Address1"
+        },
+        {
+            "value": "billing_address.address2",
+            "label": "Billing Address: Address2"
+        },
+        {
+            "value": "billing_address.city",
+            "label": "Billing Address: City"
+        },
+        {
+            "value": "billing_address.company",
+            "label": "Billing Address: Company"
+        },
+        {
+            "value": "billing_address.country",
+            "label": "Billing Address: Country"
+        },
+        {
+            "value": "billing_address.country_code",
+            "label": "Billing Address: Country Code"
+        },
+        {
+            "value": "billing_address.first_name",
+            "label": "Billing Address: First Name"
+        },
+        {
+            "value": "billing_address.last_name",
+            "label": "Billing Address: Last Name"
+        },
+        {
+            "value": "billing_address.name",
+            "label": "Billing Address: Name"
+        },
+        {
+            "value": "billing_address.phone",
+            "label": "Billing Address: Phone"
+        },
+        {
+            "value": "billing_address.province",
+            "label": "Billing Address: Province"
+        },
+        {
+            "value": "billing_address.province_code",
+            "label": "Billing Address: Province Code"
+        },
+        {
+            "value": "billing_address.zip",
+            "label": "Billing Address: Zip"
+        },
+        {
+            "value": "cancel_reason",
+            "label": "Cancel Reason"
+        },
+        {
+            "value": "cancelled_at",
+            "label": "Cancelled At"
+        },
+        {
+            "value": "closed_at",
+            "label": "Closed At"
+        },
+        {
+            "value": "confirmed",
+            "label": "Confirmed"
+        },
+        {
+            "value": "contact_email",
+            "label": "Contact Email"
+        },
+        {
+            "value": "created_at",
+            "label": "Created At"
+        },
+        {
+            "value": "currency",
+            "label": "Currency"
+        },
+        {
+            "value": "customer.accepts_marketing",
+            "label": "Customer: Accepts Marketing"
+        },
+        {
+            "value": "customer.created_at",
+            "label": "Customer: Created At"
+        },
+        {
+            "value": "customer.currency",
+            "label": "Customer: Currency"
+        },
+        {
+            "value": "customer.email",
+            "label": "Customer: Email"
+        },
+        {
+            "value": "customer.first_name",
+            "label": "Customer: First Name"
+        },
+        {
+            "value": "customer.last_name",
+            "label": "Customer: Last Name"
+        },
+        {
+            "value": "customer.note",
+            "label": "Customer: Note"
+        },
+        {
+            "value": "customer.orders_count",
+            "label": "Customer: Orders Count"
+        },
+        {
+            "value": "customer.phone",
+            "label": "Customer: Phone"
+        },
+        {
+            "value": "customer.tags",
+            "label": "Customer: Tags"
+        },
+        {
+            "value": "customer.tax_exempt",
+            "label": "Customer: Tax Exempt"
+        },
+        {
+            "value": "customer.total_spent",
+            "label": "Customer: Total Spent"
+        },
+        {
+            "value": "customer.updated_at",
+            "label": "Customer: Updated At"
+        },
+        {
+            "value": "customer.verified_email",
+            "label": "Customer: Verified Email"
+        },
+        {
+            "value": "email",
+            "label": "Email"
+        },
+        {
+            "value": "financial_status",
+            "label": "Financial Status"
+        },
+        {
+            "value": "fulfillment_status",
+            "label": "Fulfillment Status"
+        },
+        {
+            "value": "gateway",
+            "label": "Gateway"
+        },
+        {
+            "value": "line_items[].fulfillable_quantity",
+            "label": "Line Items: Fulfillable Quantity"
+        },
+        {
+            "value": "line_items[].fulfillment_service",
+            "label": "Line Items: Fulfillment Service"
+        },
+        {
+            "value": "line_items[].fulfillment_status",
+            "label": "Line Items: Fulfillment Status"
+        },
+        {
+            "value": "line_items[].gift_card",
+            "label": "Line Items: Gift Card"
+        },
+        {
+            "value": "line_items[].grams",
+            "label": "Line Items: Grams"
+        },
+        {
+            "value": "line_items[].id",
+            "label": "Line Items: ID"
+        },
+        {
+            "value": "line_items[].name",
+            "label": "Line Items: Name"
+        },
+        {
+            "value": "line_items[].price",
+            "label": "Line Items: Price"
+        },
+        {
+            "value": "line_items[].product_id",
+            "label": "Line Items: Product ID"
+        },
+        {
+            "value": "line_items[].quantity",
+            "label": "Line Items: Quantity"
+        },
+        {
+            "value": "line_items[].requires_shipping",
+            "label": "Line Items: Requires Shipping"
+        },
+        {
+            "value": "line_items[].sku",
+            "label": "Line Items: Sku"
+        },
+        {
+            "value": "line_items[].taxable",
+            "label": "Line Items: Taxable"
+        },
+        {
+            "value": "line_items[].title",
+            "label": "Line Items: Title"
+        },
+        {
+            "value": "line_items[].total_discount",
+            "label": "Line Items: Total Discount"
+        },
+        {
+            "value": "line_items[].variant_id",
+            "label": "Line Items: Variant ID"
+        },
+        {
+            "value": "line_items[].variant_inventory_management",
+            "label": "Line Items: Variant Inventory Management"
+        },
+        {
+            "value": "line_items[].variant_title",
+            "label": "Line Items: Variant Title"
+        },
+        {
+            "value": "line_items[].vendor",
+            "label": "Line Items: Vendor"
+        },
+        {
+            "value": "note",
+            "label": "Note"
+        },
+        {
+            "value": "phone",
+            "label": "Phone"
+        },
+        {
+            "value": "presentment_currency",
+            "label": "Presentment Currency"
+        },
+        {
+            "value": "processed_at",
+            "label": "Processed At"
+        },
+        {
+            "value": "processing_method",
+            "label": "Processing Method"
+        },
+        {
+            "value": "reference",
+            "label": "Reference"
+        },
+        {
+            "value": "referring_site",
+            "label": "Referring Site"
+        },
+        {
+            "value": "shipping_address.address1",
+            "label": "Shipping Address: Address1"
+        },
+        {
+            "value": "shipping_address.address2",
+            "label": "Shipping Address: Address2"
+        },
+        {
+            "value": "shipping_address.city",
+            "label": "Shipping Address: City"
+        },
+        {
+            "value": "shipping_address.company",
+            "label": "Shipping Address: Company"
+        },
+        {
+            "value": "shipping_address.country",
+            "label": "Shipping Address: Country"
+        },
+        {
+            "value": "shipping_address.country_code",
+            "label": "Shipping Address: Country Code"
+        },
+        {
+            "value": "shipping_address.first_name",
+            "label": "Shipping Address: First Name"
+        },
+        {
+            "value": "shipping_address.last_name",
+            "label": "Shipping Address: Last Name"
+        },
+        {
+            "value": "shipping_address.name",
+            "label": "Shipping Address: Name"
+        },
+        {
+            "value": "shipping_address.phone",
+            "label": "Shipping Address: Phone"
+        },
+        {
+            "value": "shipping_address.province",
+            "label": "Shipping Address: Province"
+        },
+        {
+            "value": "shipping_address.province_code",
+            "label": "Shipping Address: Province Code"
+        },
+        {
+            "value": "shipping_address.zip",
+            "label": "Shipping Address: Zip"
+        },
+        {
+            "value": "source_name",
+            "label": "Source Name"
+        },
+        {
+            "value": "source_url",
+            "label": "Source Url"
+        },
+        {
+            "value": "subtotal_price",
+            "label": "Subtotal Price"
+        },
+        {
+            "value": "taxes_included",
+            "label": "Taxes Included"
+        },
+        {
+            "value": "total_discounts",
+            "label": "Total Discounts"
+        },
+        {
+            "value": "total_price",
+            "label": "Total Price"
+        },
+        {
+            "value": "total_price_usd",
+            "label": "Total Price Usd"
+        },
+        {
+            "value": "total_tax",
+            "label": "Total Tax"
+        },
+        {
+            "value": "total_tip_received",
+            "label": "Total Tip Received"
+        },
+        {
+            "value": "total_weight",
+            "label": "Total Weight"
+        },
+        {
+            "value": "updated_at",
+            "label": "Updated At"
+        }
+    ],
+    "customer": [
+        {
+            "value": "accepts_marketing",
+            "label": "Accepts Marketing"
+        },
+        {
+            "value": "addresses.address1",
+            "label": "Addresses: Address1"
+        },
+        {
+            "value": "addresses.address2",
+            "label": "Addresses: Address2"
+        },
+        {
+            "value": "addresses.city",
+            "label": "Addresses: City"
+        },
+        {
+            "value": "addresses.company",
+            "label": "Addresses: Company"
+        },
+        {
+            "value": "addresses.country",
+            "label": "Addresses: Country"
+        },
+        {
+            "value": "addresses.country_code",
+            "label": "Addresses: Country Code"
+        },
+        {
+            "value": "addresses.country_name",
+            "label": "Addresses: Country Name"
+        },
+        {
+            "value": "addresses.phone",
+            "label": "Addresses: Phone"
+        },
+        {
+            "value": "addresses.province",
+            "label": "Addresses: Province"
+        },
+        {
+            "value": "addresses.province_code",
+            "label": "Addresses: Province Code"
+        },
+        {
+            "value": "addresses.zip",
+            "label": "Addresses: Zip"
+        },
+        {
+            "value": "created_at",
+            "label": "Created At"
+        },
+        {
+            "value": "currency",
+            "label": "Currency"
+        },
+        {
+            "value": "email",
+            "label": "Email"
+        },
+        {
+            "value": "first_name",
+            "label": "First Name"
+        },
+        {
+            "value": "last_name",
+            "label": "Last Name"
+        },
+        {
+            "value": "note",
+            "label": "Note"
+        },
+        {
+            "value": "orders_count",
+            "label": "Orders Count"
+        },
+        {
+            "value": "phone",
+            "label": "Phone"
+        },
+        {
+            "value": "state",
+            "label": "State"
+        },
+        {
+            "value": "tax_exempt",
+            "label": "Tax Exempt"
+        },
+        {
+            "value": "total_spent",
+            "label": "Total Spent"
+        },
+        {
+            "value": "updated_at",
+            "label": "Updated At"
+        },
+        {
+            "value": "verified_email",
+            "label": "Verified Email"
+        }
+    ],
+    "product": [
+        {
+            "value": "body_html",
+            "label": "Body Html"
+        },
+        {
+            "value": "created_at",
+            "label": "Created At"
+        },
+        {
+            "value": "handle",
+            "label": "Handle"
+        },
+        {
+            "value": "images[].alt",
+            "label": "Images: Alt"
+        },
+        {
+            "value": "images[].created_at",
+            "label": "Images: Created At"
+        },
+        {
+            "value": "images[].updated_at",
+            "label": "Images: Updated At"
+        },
+        {
+            "value": "options.name",
+            "label": "Options: Name"
+        },
+        {
+            "value": "product_type",
+            "label": "Product Type"
+        },
+        {
+            "value": "published_at",
+            "label": "Published At"
+        },
+        {
+            "value": "published_scope",
+            "label": "Published Scope"
+        },
+        {
+            "value": "template_suffix",
+            "label": "Template Suffix"
+        },
+        {
+            "value": "title",
+            "label": "Title"
+        },
+        {
+            "value": "updated_at",
+            "label": "Updated At"
+        },
+        {
+            "value": "variants[].barcode",
+            "label": "Variants: Barcode"
+        },
+        {
+            "value": "variants[].option1",
+            "label": "Variants: Option1"
+        },
+        {
+            "value": "variants[].option2",
+            "label": "Variants: Option2"
+        },
+        {
+            "value": "variants[].option3",
+            "label": "Variants: Option3"
+        },
+        {
+            "value": "variants[].position",
+            "label": "Variants: Position"
+        },
+        {
+            "value": "variants[].price",
+            "label": "Variants: Price"
+        },
+        {
+            "value": "variants[].requires_shipping",
+            "label": "Variants: Requires Shipping"
+        },
+        {
+            "value": "variants[].sku",
+            "label": "Variants: Sku"
+        },
+        {
+            "value": "variants[].taxable",
+            "label": "Variants: Taxable"
+        },
+        {
+            "value": "variants[].title",
+            "label": "Variants: Title"
+        },
+        {
+            "value": "variants[].weight",
+            "label": "Variants: Weight"
+        },
+        {
+            "value": "variants[].weight_unit",
+            "label": "Variants: Weight Unit"
+        },
+        {
+            "value": "vendor",
+            "label": "Vendor"
+        }
+    ]
+}

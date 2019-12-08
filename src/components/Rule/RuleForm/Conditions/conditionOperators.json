@@ -1,0 +1,49 @@
+[{
+  "value": "EQUALS",
+  "label": "equals"
+}, {
+  "value": "CONTAINS",
+  "label": "contains"
+}, {
+  "value": "STARTS_WITH",
+  "label": "starts with"
+}, {
+  "value": "ENDS_WITH",
+  "label": "ends with"
+}, {
+  "value": "REGEX",
+  "label": "matches RegEx"
+}, {
+  "value": "REGEX_IGNORE_CASE",
+  "label": "matches RegEx (ignore case)"
+}, {
+  "value": "NOT_EQUALS",
+  "label": "does not equal"
+}, {
+  "value": "NOT_CONTAINS",
+  "label": "does not contain"
+}, {
+  "value": "NOT_STARTS_WITH",
+  "label": "does not start with"
+}, {
+  "value": "NOT_ENDS_WITH",
+  "label": "does not end with"
+}, {
+  "value": "NOT_REGEX",
+  "label": "does not match RegEx"
+}, {
+  "value": "NOT_REGEX_IGNORE_CASE",
+  "label": "does not match RegEx (ignore case)"
+}, {
+  "value": "LESS_THAN",
+  "label": "less than"
+}, {
+  "value": "LESS_EQUALS",
+  "label": "less than or equal to"
+}, {
+  "value": "GREATER_THAN",
+  "label": "greater than"
+}, {
+  "value": "GREATER_EQUALS",
+  "label": "greater than or equal to"
+}]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "All", 
+    "id": "all",
+    "helpText": "Items have to match every single condition"
+  },
+  {
+    "name": "Any",
+    "id": "any", 
+    "helpText": "Items only have to match one of your conditions"
+  }
+]
