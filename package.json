@@ -6,7 +6,7 @@
     "@rehooks/local-storage": "^1.7.0",
     "@shopify/polaris": "^4.8.0",
     "@shopify/polaris-icons": "^3.8.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prop-types": "^15.7.2",
     "query-string": "^6.9.0",
     "react": "^16.12.0",
